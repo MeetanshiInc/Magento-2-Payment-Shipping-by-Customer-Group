@@ -12,4 +12,4 @@ Save yourself from the embarrassment where you have to deny a special shipping o
 * The customers can see those shipping and payment methods assigned to their groups only.
 * Getting better shipping and payment options will encourage customers to perform conversions like registration or getting premium memberships, etc.
 
-For more information, visit [https://meetanshi.com/magento-2-payment-shipping-by-customer-group.html](https://meetanshi.com/magento-2-payment-shipping-by-customer-group.html)
+For more information, visit ***[https://meetanshi.com/magento-2-payment-shipping-by-customer-group.html](https://meetanshi.com/magento-2-payment-shipping-by-customer-group.html)***
